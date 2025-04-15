@@ -1,0 +1,11 @@
+{
+  "name": "ice-to-ammonia",
+  "version": "1.0.0",
+  "title": "Ice to Ammonia",
+  "author": "cindersofash",
+  "contact": "cinders.of.ash@gmail.com",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "space-age >= 2.0"],
+  "freezing_required": true,
+  "description": "Adds method of turning ice into ammonia. Meant to help simplify resource management on Aquilo."
+}
